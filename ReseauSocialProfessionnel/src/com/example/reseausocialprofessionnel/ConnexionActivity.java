@@ -123,3 +123,5 @@ public class ConnexionActivity extends Activity {
 	        });
 	    }
 }
+
+//ali m'a fatigué :p
