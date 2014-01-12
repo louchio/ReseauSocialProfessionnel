@@ -124,5 +124,4 @@ public class ConnexionActivity extends Activity {
 	    }
 }
 
-
-
+//test
