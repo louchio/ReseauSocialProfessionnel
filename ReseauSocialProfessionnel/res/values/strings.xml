@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FindLine</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="editText">Entrez le nom</string>
+    <string name="title_activity_connexion">connexion</string>
+    <string name="title_activity_register">Register New Account</string>
+    <string name="title_activity_menu">title_activity_Menu</string>
+
+</resources>
